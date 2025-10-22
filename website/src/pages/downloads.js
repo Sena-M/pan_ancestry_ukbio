@@ -113,13 +113,17 @@ function Downloads() {
           </p>
           <h3>Citation</h3>
           <p>
-            In addition to acknowledging the UK Biobank, we request that any use of this dataset in publications cite:
+            In addition to acknowledging the UK Biobank, we request that any use of this dataset in publications cite our <a href="https://www.nature.com/articles/s41588-025-02335-7">manuscript</a>:
           </p>
           <p><code>
-            Pan-UKB team. https://pan.ukbb.broadinstitute.org. 2020.
+            Karczewski, Gupta, Kanai et al., "Pan-UK Biobank genome-wide association analyses enhance discovery and resolution of ancestry-enriched effects". Nat Genet 57, 2408–2417 (2025). https://doi.org/10.1038/s41588-025-02335-7
           </code></p>
           <p>
             There is no need to include us as authors on your manuscript, unless we contributed specific advice or analysis for your work.
+          </p>
+          <h3>GWAS Catalog</h3>
+          <p>
+            The summary statistics are also available on the <a href="http://www.ebi.ac.uk/gwas/publications/40968291">GWAS Catalog</a>.
           </p>
         </div>
       </main>
